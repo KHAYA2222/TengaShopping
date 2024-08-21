@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825393055383",
+    "project_id": "tengashopping-39827",
+    "storage_bucket": "tengashopping-39827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825393055383:android:6dfac89a30804ffeb80bd2",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNBCAANHF_K_sNoT6fsOZS4jyhAIwvG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
